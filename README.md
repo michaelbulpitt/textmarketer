@@ -1,6 +1,6 @@
 # Textmarketer
 
-TODO: Write a gem description
+A ruby wrapper for TextMarketer API.
 
 ## Installation
 
@@ -18,7 +18,6 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
 
 ## Contributing
 
