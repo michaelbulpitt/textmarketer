@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Textmarketer::VERSION
   spec.authors       = ["Michael Bulpitt"]
   spec.email         = ["michael@kashoo.co.uk"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = "A ruby wrapper for TextMarketer API."
+  spec.summary       = "A ruby wrapper for TextMarketer API."
   spec.homepage      = ""
   spec.license       = "MIT"
 
