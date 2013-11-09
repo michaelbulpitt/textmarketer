@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["michael@kashoo.co.uk"]
   spec.description   = "A ruby wrapper for TextMarketer API."
   spec.summary       = "A ruby wrapper for TextMarketer API."
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/michaelbulpitt/textmarketer"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
